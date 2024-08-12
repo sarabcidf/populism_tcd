@@ -1,0 +1,11 @@
+country,best_params,best_score,mse
+BOL,"{'learning_rate': 0.01, 'max_depth': 5, 'min_child_weight': 2, 'n_estimators': 150}",0.1882877399524053,0.13653074
+COL,"{'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 2, 'n_estimators': 100}",2.607734203338623,2.4864385
+CRI,"{'learning_rate': 0.01, 'max_depth': 10, 'min_child_weight': 1, 'n_estimators': 100}",3.762078046798706,3.7846963
+ECU,"{'learning_rate': 0.01, 'max_depth': 5, 'min_child_weight': 2, 'n_estimators': 100}",2.1474923690160117,2.1477396
+CHL,"{'learning_rate': 0.01, 'max_depth': 3, 'min_child_weight': 1, 'n_estimators': 100}",3.3255502382914224,3.3963
+PAN,"{'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 1, 'n_estimators': 150}",3.327340523401896,3.4481177
+URY,"{'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 2, 'n_estimators': 100}",0.4123649100462596,0.3735237
+DOM,"{'learning_rate': 0.01, 'max_depth': 3, 'min_child_weight': 2, 'n_estimators': 100}",0.4225836495558421,0.43805054
+MEX,"{'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 1, 'n_estimators': 100}",2.3034488360087075,1.9388977
+PER,"{'learning_rate': 0.01, 'max_depth': 3, 'min_child_weight': 1, 'n_estimators': 150}",1.3672241767247517,1.2444988
