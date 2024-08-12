@@ -1,0 +1,157 @@
+/home/users/cids/bow_train_explore_call.py:43: DtypeWarning: Columns (14) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('sentences.csv')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+/home/users/cids/bow_train_explore_call.py:283: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_importances, y=top_words, palette='mako')
+ -- Libraries done -- 
+Current working directory: /home/users/cids
+ -- WD setup done -- 
+ -- Reading data done -- 
+ -- Cleaning done -- 
+ -- Bow F done -- 
+ -- Train eval F done -- 
+Processing country: BOL
+Processing country: COL
+Processing country: CRI
+Processing country: ECU
+Processing country: CHL
+Processing country: PAN
+Processing country: URY
+Processing country: DOM
+Processing country: MEX
+Processing country: PER
+ -- Processing done -- 
+
+
+###############################################################################
+TCHPC Cluster: callan
+Job 17000 (full_data_callanv) for User 'cids' in Account 'callan_cids'
+Finished at: Tue Aug  6 16:00:06 IST 2024
+
+Job efficiency estimates:
+=========================
+
+Job ID: 17000
+Cluster: callan
+User/Group: cids/cids
+State: RUNNING
+Nodes: 1
+Cores per node: 64
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 7-22:28:16 core-walltime
+Job Wall-clock time: 02:58:34
+Memory Utilized: 0.00 MB (estimated maximum)
+Memory Efficiency: 0.00% of 250.00 GB (250.00 GB/node)
+WARNING: Efficiency statistics may be misleading for RUNNING jobs.
+
+Job completion status:
+======================
+
+JobID           JobName AllocCPUS NTasks NNodes     MaxRSS    MaxRSSNode  MaxDiskRead MaxDiskWrite    Elapsed      State ExitCode 
+------------ ---------- --------- ------ ------ ---------- ------------- ------------ ------------ ---------- ---------- -------- 
+17000        full_data+        64             1                                                      02:58:35  COMPLETED      0:0 
+17000.batch       batch        64      1      1   1789840K    callan-n10      353.85M      711.90M   02:58:35  COMPLETED      0:0 
+17000.extern     extern        64      1      1                                                      02:58:35  COMPLETED      0:0 
+
+
+Job details:
+============
+
+JobId=17000 JobName=full_data_callanv
+   UserId=cids(1954) GroupId=cids(1854) MCS_label=N/A
+   Priority=295833 Nice=0 Account=callan_cids QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   DerivedExitCode=0:0
+   RunTime=02:58:35 TimeLimit=05:00:00 TimeMin=N/A
+   SubmitTime=2024-08-06T13:01:30 EligibleTime=2024-08-06T13:01:30
+   AccrueTime=2024-08-06T13:01:30
+   StartTime=2024-08-06T13:01:31 EndTime=2024-08-06T16:00:06 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2024-08-06T13:01:31 Scheduler=Main
+   Partition=compute AllocNode:Sid=localhost:2614227
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=callan-n10
+   BatchHost=callan-n10
+   NumNodes=1 NumCPUs=64 NumTasks=64 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   ReqTRES=cpu=64,mem=250G,node=1,billing=64
+   AllocTRES=cpu=64,mem=250G,node=1,billing=64
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   JOB_GRES=(null)
+     Nodes=callan-n10 CPU_IDs=0-63 Mem=256000 GRES=
+   MinCPUsNode=1 MinMemoryNode=250G MinTmpDiskNode=0
+   Features=(null) DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/users/cids/run_script.sh
+   WorkDir=/home/users/cids
+   StdErr=/home/users/cids/slurm-17000.out
+   StdIn=/dev/null
+   StdOut=/home/users/cids/slurm-17000.out
+   Power=
+   
+
+
+SLURM Bank Statement:
+=====================
+
+User           Usage |        Account     Usage | Account Limit Available (CPU hrs)
+---------- --------- + -------------- --------- + ------------- ---------
+cids           1,300 |    CALLAN_CIDS     1,300 |       300,000   298,700
+
+
+Acknowledgements:
+=================
+
+Note that usage of TCHPC Resources *must* be acknowledged in all publications.
+
+Please see this page for details relevant to this cluster:
+
+http://www.tchpc.tcd.ie/resources/acknowledgementpolicy
+
+################################################################################

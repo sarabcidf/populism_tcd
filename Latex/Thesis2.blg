@@ -1,0 +1,16 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Thesis2.blg'
+[40] biber-darwin:340> INFO - === Mon Aug 12, 2024, 11:23:10
+[51] Biber.pm:419> INFO - Reading 'Thesis2.bcf'
+[131] Biber.pm:979> INFO - Found 44 citekeys in bib section 0
+[140] Biber.pm:4419> INFO - Processing section 0
+[147] Biber.pm:4610> INFO - Looking for bibtex file '/Users/sarabcidf/Desktop/ASDS/Dissertation/Latex/PopulismBiblio2.bib' for section 0
+[159] bibtex.pm:1713> INFO - LaTeX decoding ...
+[419] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/sarabcidf/Desktop/ASDS/Dissertation/Latex/PopulismBiblio2.bib'
+[601] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[601] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[601] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[601] Biber.pm:4239> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[601] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[627] bbl.pm:660> INFO - Writing 'Thesis2.bbl' with encoding 'UTF-8'
+[639] bbl.pm:763> INFO - Output to Thesis2.bbl

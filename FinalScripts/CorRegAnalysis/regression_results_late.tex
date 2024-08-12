@@ -1,0 +1,35 @@
+\begin{table}[!htbp] \centering
+  \caption{Regression Results}
+\begin{tabular}{@{\extracolsep{5pt}}lcccc}
+\\[-1.8ex]\hline
+\hline \\[-1.8ex]
+& \multicolumn{4}{c}{\textit{Dependent variable: populist_rhetoric}} \
+\cr \cline{2-5}
+\\[-1.8ex] & \multicolumn{1}{c}{Corrupt Politicians} & \multicolumn{1}{c}{People Should Decide} & \multicolumn{1}{c}{Strongman Rule} & \multicolumn{1}{c}{Will of the People}  \\
+\\[-1.8ex] & (1) & (2) & (3) & (4) \\
+\hline \\[-1.8ex]
+ Intercept & 2.8697\textsuperscript{***} & 5.8352\textsuperscript{***} & 3.1105\textsuperscript{***} & 6.7041\textsuperscript{***} \\
+& (0.3408) & (0.3300) & (0.2602) & (0.3409) \\
+ corrupt_politicians & 0.5113\textsuperscript{***} & & & \\
+& (0.0421) & & & \\
+ ideology & 0.0121$^{}$ & -0.0535$^{}$ & -0.0825\textsuperscript{**} & 0.0289$^{}$ \\
+& (0.0443) & (0.0541) & (0.0392) & (0.0511) \\
+ people_should_decide & & -0.0128$^{}$ & & \\
+& & (0.0599) & & \\
+ region[T.Latin America & Caribbean] & -0.5104\textsuperscript{**} & 0.1139$^{}$ & -0.1486$^{}$ & 0.2243$^{}$ \\
+& (0.2319) & (0.2605) & (0.1988) & (0.2526) \\
+ strongman_rule & & & 0.6970\textsuperscript{***} & \\
+& & & (0.0393) & \\
+ will_of_the_people & & & & -0.3141\textsuperscript{***} \\
+& & & & (0.0627) \\
+\hline \\[-1.8ex]
+ Observations & 452 & 451 & 454 & 453 \\
+ $R^2$ & 0.2501 & 0.0032 & 0.4122 & 0.0543 \\
+ Adjusted $R^2$ & 0.2451 & -0.0035 & 0.4083 & 0.0480 \\
+ Residual Std. Error & 2.1489 (df=448) & 2.4559 (df=447) & 1.9025 (df=450) & 2.4183 (df=449) \\
+ F Statistic & 49.8019\textsuperscript{***} (df=3; 448) & 0.4748$^{}$ (df=3; 447) & 105.1796\textsuperscript{***} (df=3; 450) & 8.5907\textsuperscript{***} (df=3; 449) \\
+\hline
+\hline \\[-1.8ex]
+\textit{Note:} & \multicolumn{4}{r}{\textsuperscript{*}p$<$0.1; \textsuperscript{**}p$<$0.05; \textsuperscript{***}p$<$0.01} \\
+\end{tabular}
+\end{table}

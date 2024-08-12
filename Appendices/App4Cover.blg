@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'App4Cover.blg'
+[44] biber-darwin:340> INFO - === Tue Aug  6, 2024, 13:57:25
+[54] Biber.pm:419> INFO - Reading 'App4Cover.bcf'
+[133] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[143] bbl.pm:660> INFO - Writing 'App4Cover.bbl' with encoding 'UTF-8'
+[143] bbl.pm:763> INFO - Output to App4Cover.bbl
+[143] Biber.pm:131> WARN - The file 'App4Cover.bcf' does not contain any citations!
+[143] Biber.pm:133> INFO - WARNINGS: 1

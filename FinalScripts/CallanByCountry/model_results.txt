@@ -1,0 +1,50 @@
+Country: BOL
+Best Parameters: max_depth=10, min_samples_leaf=1, n_estimators=300
+Best Score: 0.1696815621995461
+Mean Squared Error: 0.16252817725285118
+
+Country: COL
+Best Parameters: max_depth=10, min_samples_leaf=2, n_estimators=200
+Best Score: 2.635852937721646
+Mean Squared Error: 2.671794801815729
+
+Country: CRI
+Best Parameters: max_depth=None, min_samples_leaf=2, n_estimators=300
+Best Score: 3.3125394380596926
+Mean Squared Error: 3.190709396800314
+
+Country: ECU
+Best Parameters: max_depth=None, min_samples_leaf=2, n_estimators=300
+Best Score: 1.8658932212591661
+Mean Squared Error: 1.707238940838212
+
+Country: CHL
+Best Parameters: max_depth=10, min_samples_leaf=2, n_estimators=300
+Best Score: 3.366167698099634
+Mean Squared Error: 3.3647180406190786
+
+Country: PAN
+Best Parameters: max_depth=None, min_samples_leaf=2, n_estimators=300
+Best Score: 3.000496529186553
+Mean Squared Error: 2.808212736697441
+
+Country: URY
+Best Parameters: max_depth=None, min_samples_leaf=2, n_estimators=300
+Best Score: 0.3584033134598353
+Mean Squared Error: 0.34461109394818096
+
+Country: DOM
+Best Parameters: max_depth=10, min_samples_leaf=2, n_estimators=100
+Best Score: 0.30316056219125775
+Mean Squared Error: 0.32503627556654696
+
+Country: MEX
+Best Parameters: max_depth=None, min_samples_leaf=2, n_estimators=300
+Best Score: 1.464934933693917
+Mean Squared Error: 1.318320161356794
+
+Country: PER
+Best Parameters: max_depth=None, min_samples_leaf=2, n_estimators=300
+Best Score: 1.1382672185088931
+Mean Squared Error: 1.121475814622558
+

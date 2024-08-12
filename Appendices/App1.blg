@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'App1.blg'
+[43] biber-darwin:340> INFO - === Mon Aug 12, 2024, 15:23:42
+[55] Biber.pm:419> INFO - Reading 'App1.bcf'
+[129] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[139] bbl.pm:660> INFO - Writing 'App1.bbl' with encoding 'UTF-8'
+[139] bbl.pm:763> INFO - Output to App1.bbl
+[139] Biber.pm:131> WARN - The file 'App1.bcf' does not contain any citations!
+[139] Biber.pm:133> INFO - WARNINGS: 1

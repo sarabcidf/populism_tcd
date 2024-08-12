@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Metrics Comparisons for Alternative Models}{4}{section.1}%
+\contentsline {section}{\numberline {2}Performance and Validation Metrics for the Selected Model}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Bolivia}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Chile}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Colombia}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Costa Rica}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}D. Republic}{13}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Ecuador}{15}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Mexico}{17}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Panama}{19}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Peru}{21}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Uruguay}{23}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Predictions by party (all parties)}{24}{subsection.2.11}%

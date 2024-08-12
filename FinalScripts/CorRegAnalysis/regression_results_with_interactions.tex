@@ -1,0 +1,43 @@
+\begin{table}[!htbp] \centering
+  \caption{Regression Results with Interaction Terms}
+\begin{tabular}{@{\extracolsep{5pt}}lcccc}
+\\[-1.8ex]\hline
+\hline \\[-1.8ex]
+& \multicolumn{4}{c}{\textit{Dependent variable: populist_rhetoric}} \
+\cr \cline{2-5}
+\\[-1.8ex] & \multicolumn{1}{c}{Corrupt Politicians} & \multicolumn{1}{c}{People Should Decide} & \multicolumn{1}{c}{Strongman Rule} & \multicolumn{1}{c}{Will of the People}  \\
+\\[-1.8ex] & (1) & (2) & (3) & (4) \\
+\hline \\[-1.8ex]
+ Intercept & 2.1110\textsuperscript{***} & 6.5157\textsuperscript{***} & 2.9215\textsuperscript{***} & 7.9661\textsuperscript{***} \\
+& (0.3494) & (0.3859) & (0.2853) & (0.3832) \\
+ corrupt_politicians & 0.6536\textsuperscript{***} & & & \\
+& (0.0465) & & & \\
+ corrupt_politicians:region[T.Latin America & Caribbean] & -0.5806\textsuperscript{***} & & & \\
+& (0.0935) & & & \\
+ ideology & 0.0212$^{}$ & -0.0782$^{}$ & -0.0802\textsuperscript{**} & 0.0111$^{}$ \\
+& (0.0426) & (0.0540) & (0.0392) & (0.0491) \\
+ people_should_decide & & -0.1352\textsuperscript{*} & & \\
+& & (0.0698) & & \\
+ people_should_decide:region[T.Latin America & Caribbean] & & 0.3869\textsuperscript{***} & & \\
+& & (0.1171) & & \\
+ region[T.Latin America & Caribbean] & 2.8990\textsuperscript{***} & -1.8812\textsuperscript{***} & 0.4129$^{}$ & -3.2293\textsuperscript{***} \\
+& (0.5925) & (0.6564) & (0.4025) & (0.5979) \\
+ strongman_rule & & & 0.7419\textsuperscript{***} & \\
+& & & (0.0482) & \\
+ strongman_rule:region[T.Latin America & Caribbean] & & & -0.1329$^{}$ & \\
+& & & (0.0829) & \\
+ will_of_the_people & & & & -0.5908\textsuperscript{***} \\
+& & & & (0.0744) \\
+ will_of_the_people:region[T.Latin America & Caribbean] & & & & 0.7627\textsuperscript{***} \\
+& & & & (0.1207) \\
+\hline \\[-1.8ex]
+ Observations & 452 & 451 & 454 & 453 \\
+ $R^2$ & 0.3097 & 0.0270 & 0.4155 & 0.1317 \\
+ Adjusted $R^2$ & 0.3035 & 0.0183 & 0.4103 & 0.1239 \\
+ Residual Std. Error & 2.0640 (df=447) & 2.4291 (df=446) & 1.8992 (df=449) & 2.3199 (df=448) \\
+ F Statistic & 50.1263\textsuperscript{***} (df=4; 447) & 3.0943\textsuperscript{**} (df=4; 446) & 79.8028\textsuperscript{***} (df=4; 449) & 16.9812\textsuperscript{***} (df=4; 448) \\
+\hline
+\hline \\[-1.8ex]
+\textit{Note:} & \multicolumn{4}{r}{\textsuperscript{*}p$<$0.1; \textsuperscript{**}p$<$0.05; \textsuperscript{***}p$<$0.01} \\
+\end{tabular}
+\end{table}

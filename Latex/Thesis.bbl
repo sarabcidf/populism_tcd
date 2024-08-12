@@ -1,0 +1,1127 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{alcantaraPoliticsPoliticalElites2020}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e9c0d586dd73e93978ab277d3e72a241}{%
+           family={Alcántara},
+           familyi={A\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b134d85acd6010476a45c2b3355a740e}{%
+           family={{Garcia-Montero}},
+           familyi={G\bibinitperiod},
+           given={Mercedes},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d79fc7ecf0779f6a4bc9c10fd1a066c}{%
+           family={Rivas\bibnamedelima Pérez},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2662553532856eabfdb4f11a75c0ddc6}
+      \strng{fullhash}{2662553532856eabfdb4f11a75c0ddc6}
+      \strng{bibnamehash}{2662553532856eabfdb4f11a75c0ddc6}
+      \strng{authorbibnamehash}{2662553532856eabfdb4f11a75c0ddc6}
+      \strng{authornamehash}{2662553532856eabfdb4f11a75c0ddc6}
+      \strng{authorfullhash}{2662553532856eabfdb4f11a75c0ddc6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This book presents in-depth analyses of the data gathered for 26 years by the Political Elites of Latin America project (PELA), the most comprehensive database about the topic in the world. Since 1994, PELA has conducted around 9,000 personal interviews with representative samples of the Legislative Powers of 18 Latin American countries, generating a unique resource for the study of political elites in a comparative perspective. Now, this contributed volume brings together studies that dig into the data gathered by PELA to discuss important topics related to the challenges faced by representative democracy in Latin America. After an introductory chapter that presents the potential of the PELA database, the book is structured in two parts. The first addresses in eight chapters important aspects of representative democracy such as political ambition, political trust, satisfaction with democracy, clientelism and the quality of democracy. It then discusses three relevant issues in Latin American political dynamics such as executive-legislative relations, women's participation as representatives, and the meaning of China and the United States in national politics. The second part addresses in five chapters studies of seven national cases that are representative of regional heterogeneity. These chapters aim to examine parliamentarian elites' attitudes in different political systems with regard to a variety of relevant issues such as institutional trust, satisfaction with democracy, Executive-Legislative relations, clientelism, and gender questions. Furthermore, these chapters intend to evince the evolution of such attitudes in the course of the last two decades. Politics and Political Elites in Latin America: Challenges and Trends will be of interest to scholars and students of comparative politics in general and, more particularly, to those interested in the challenges faced by representative democracy not only in Latin America, but in many parts of the world. Studying Political Elites in Latin America will be of interest to scholars and students of comparative politics in general and, more particularly, to those interested in the challenges faced by representative democracy not only in Latin America, but in many parts of the world.}
+      \field{isbn}{978-3-030-51583-6}
+      \field{month}{1}
+      \field{shorttitle}{Politics and {{Political Elites}} in {{Latin America Challenges}} and {{Trends}}}
+      \field{title}{Politics and {{Political Elites}} in {{Latin America Challenges}} and {{Trends}}: {{Challenges}} and {{Trends}}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/978-3-030-51584-3
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/JSCG4Z2V/Alcántara et al. - 2020 - Politics and Political Elites in Latin America Cha.pdf
+      \endverb
+    \endentry
+    \entry{AMLOInstitutionsHow}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This event is hybrid. To register for the online session, click here.}
+      \field{howpublished}{https://drclas.harvard.edu/event/amlo-versus-institutions-how-has-lopez-obrador-presidency-affected-mexico\%E2\%80\%99s-democracy}
+      \field{langid}{english}
+      \field{shorttitle}{{{AMLO}} versus the {{Institutions}}}
+      \field{title}{{{AMLO}} versus the {{Institutions}}: {{How Has}} the {{Lopez Obrador Presidency Affected Mexico}}'s {{Democracy}}?}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/V9FTMS65/amlo-versus-institutions-how-has-lopez-obrador-presidency-affected-mexico’s-democracy.html
+      \endverb
+    \endentry
+    \entry{benvenutoPopulistReasonErnesto2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b1627fe8fb47e1d3a64a2c58f6e8cac6}{%
+           family={Benvenuto},
+           familyi={B\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf8aa71e18653f1ce2cc4a034e1d9bc5}{%
+           family={Howarth},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86441fbe001e8b6bfd61f48f1244ec05}{%
+           family={Norval},
+           familyi={N\bibinitperiod},
+           given={Aletta},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aeb81dcbdf669fbd2acde720c106d88b}
+      \strng{fullhash}{aeb81dcbdf669fbd2acde720c106d88b}
+      \strng{bibnamehash}{aeb81dcbdf669fbd2acde720c106d88b}
+      \strng{authorbibnamehash}{aeb81dcbdf669fbd2acde720c106d88b}
+      \strng{authornamehash}{aeb81dcbdf669fbd2acde720c106d88b}
+      \strng{authorfullhash}{aeb81dcbdf669fbd2acde720c106d88b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{On {{Populist Reason}} by {{Ernesto Laclau}}}
+      \field{year}{2012}
+      \field{pages}{633\bibrangedash 646}
+      \range{pages}{14}
+    \endentry
+    \entry{BrazilCollorCorruption}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brazil - Collor, corruption, and inflation: Brazil's old-regime elites and military continued to inhibit reform of the political system in the early 1990s, while the country's voters became disaffected and cynical, and the political parties remained superficial, depending on personality cults rather than platforms that addressed specific problems. In the final round of the 1989 elections, Fernando Collor de Mello of the small National Reconstruction Party faced Luiz Inácio Lula da Silva, known by his nickname Lula, of the Workers' Party (Partido dos Trabalhadores; PT), which presented an uncommonly well-articulated platform and a clearly socialist ideology. Collor nevertheless gained the support of most of the parties}
+      \field{howpublished}{https://www.britannica.com/place/Brazil/Collor-corruption-and-inflation}
+      \field{langid}{english}
+      \field{title}{Brazil - {{Collor}}, Corruption, and Inflation {|} {{Britannica}}}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/CL549Y6P/Collor-corruption-and-inflation.html
+      \endverb
+    \endentry
+    \entry{SignificanceNayibBukele}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On Sunday, 37 year-old anti-establishment candidate Nayib Bukele won the presidency of El Salvador. What does it mean?}
+      \field{howpublished}{https://www.brookings.edu/articles/the-significance-of-nayib-bukeles-surprising-election-as-president-of-el-salvador/}
+      \field{journaltitle}{Brookings}
+      \field{langid}{american}
+      \field{title}{The Significance of {{Nayib Bukele}}'s Surprising Election as President of {{El Salvador}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{cannonHugoChavezBolivarian2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5f8165b1f0b9bc1f81d6ca1e0da1aff}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Manchester University Press}%
+      }
+      \strng{namehash}{a5f8165b1f0b9bc1f81d6ca1e0da1aff}
+      \strng{fullhash}{a5f8165b1f0b9bc1f81d6ca1e0da1aff}
+      \strng{bibnamehash}{a5f8165b1f0b9bc1f81d6ca1e0da1aff}
+      \strng{authorbibnamehash}{a5f8165b1f0b9bc1f81d6ca1e0da1aff}
+      \strng{authornamehash}{a5f8165b1f0b9bc1f81d6ca1e0da1aff}
+      \strng{authorfullhash}{a5f8165b1f0b9bc1f81d6ca1e0da1aff}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract. The emergence of Hugo Chávez in Venezuela has revived analysis of one of Latin America's most enduring political traditions: populism. Yet Latin}
+      \field{isbn}{978-1-78170-195-9}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Hugo {{Chávez}} and the {{Bolivarian Revolution}}}
+      \field{title}{Hugo {{Chávez}} and the {{Bolivarian Revolution}}: {{Populism}} and {{Democracy}} in a {{Globalised Age}}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.7228/manchester/9780719077715.001.0001
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/C6546XU3/16713.html
+      \endverb
+    \endentry
+    \entry{canovanTrustPeoplePopulism1999}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c8b181b2cf2f786e60760d905925ff5}{%
+           family={Canovan},
+           familyi={C\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c8b181b2cf2f786e60760d905925ff5}
+      \strng{fullhash}{4c8b181b2cf2f786e60760d905925ff5}
+      \strng{bibnamehash}{4c8b181b2cf2f786e60760d905925ff5}
+      \strng{authorbibnamehash}{4c8b181b2cf2f786e60760d905925ff5}
+      \strng{authornamehash}{4c8b181b2cf2f786e60760d905925ff5}
+      \strng{authorfullhash}{4c8b181b2cf2f786e60760d905925ff5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Populism, understood as an appeal to `the people' against both the established structure of power and the dominant ideas and values, should not be dismissed as a pathological form of politics of no interest to the political theorist, for its democratic pretensions raise important issues. Adapting Michael Oakeshott's distinction between `the politics of faith' and `the politics of scepticism', the paper offers an analysis of democracy in terms of two opposing faces, one `pragmatic' and the other `redemptive', and argues that it is the inescapable tension between them that makes populism a perennial possibility.}
+      \field{issn}{1467-9248}
+      \field{journaltitle}{Political Studies}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Trust the {{People}}! {{Populism}} and the {{Two Faces}} of {{Democracy}}}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{47}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \field{pages}{2\bibrangedash 16}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/1467-9248.00184
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/VNGXXRCA/1467-9248.html
+      \endverb
+    \endentry
+    \entry{chueriPeopleEliteJair2018}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=451870307962fd7ce02b03d31d91a893}{%
+           family={Chueri},
+           familyi={C\bibinitperiod},
+           given={Juliana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{451870307962fd7ce02b03d31d91a893}
+      \strng{fullhash}{451870307962fd7ce02b03d31d91a893}
+      \strng{bibnamehash}{451870307962fd7ce02b03d31d91a893}
+      \strng{authorbibnamehash}{451870307962fd7ce02b03d31d91a893}
+      \strng{authornamehash}{451870307962fd7ce02b03d31d91a893}
+      \strng{authorfullhash}{451870307962fd7ce02b03d31d91a893}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article aims to identify and characterize the populist rhetoric of Jair Bolsonaro, candidate for the Brazilian presidency in the October 2018 election. Applying the methodology proposed by Rooduijn and Pauwels (2011), I analyze the candidate's personal tweets from 5 May 2018 to 5 September 2018. The conclusion is that populism is an important element of Bolsonaro's rhetoric. First, he attacks political elites, accuses them of corruption, and blames them for the economic and political crises. Second, he appeals to the Brazilian people and claims to be the only candidate who will govern in their interest. Nevertheless, the construction of 'us', 'the people' is drawn in an exclusionary manner: he denies the existence of class, race, and gender conflicts; opposes minority rights; and does not present initiatives for social inclusion. Therefore, Bolsonaro detaches from Latin American inclusionary populism and shows similarities to Western European exclusionary populism. This fact is also illustrated by the radical aspect of his rhetoric: law and order are highly salient in his discourse, the second most frequent topic of his tweets. Finally, Bolsonaro embraces the free market economy, but as with other populist politicians, distributive issues have very limited space in his discourse.}
+      \field{month}{9}
+      \field{shorttitle}{People against the Elite?}
+      \field{title}{People against the Elite? {{Jair Bolsonaro}}'s Presidential Campaign}
+      \field{year}{2018}
+    \endentry
+    \entry{coccoHowPopulistAre2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1660496f8ff42530f061124f7bb53ec8}{%
+           family={Cocco},
+           familyi={C\bibinitperiod},
+           given={Jessica\bibnamedelima Di},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8c83a8d69d3d9bfaab94bb102a89705}{%
+           family={Monechi},
+           familyi={M\bibinitperiod},
+           given={Bernardo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0fd9c631fa43254c90bcf7aec01bc870}
+      \strng{fullhash}{0fd9c631fa43254c90bcf7aec01bc870}
+      \strng{bibnamehash}{0fd9c631fa43254c90bcf7aec01bc870}
+      \strng{authorbibnamehash}{0fd9c631fa43254c90bcf7aec01bc870}
+      \strng{authornamehash}{0fd9c631fa43254c90bcf7aec01bc870}
+      \strng{authorfullhash}{0fd9c631fa43254c90bcf7aec01bc870}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{One of the main challenges in comparative studies on populism concerns its temporal and spatial measurements within and between a large number of parties and countries. Textual analysis has proved useful for these purposes, and automated methods can further improve research in this direction. Here, we propose a method to derive a score of parties' levels of populism using supervised machine learning to perform textual analysis on national manifestos. We illustrate the advantages of our approach, which allows for measuring populism for a vast number of parties and countries without resource-intensive human-coding processes and provides accurate, updated information for temporal and spatial comparisons of populism. Furthermore, our method allows for obtaining a continuous score of populism, which ensures more fine-grained analyses of the party landscape while reducing the risk of arbitrary classifications. To illustrate the potential contribution of this score, we use it as a proxy for parties' levels of populism, analyzing average trends in six European countries from the early 2000s for nearly two decades.}
+      \field{issn}{1047-1987, 1476-4989}
+      \field{journaltitle}{Political Analysis}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{How {{Populist}} Are {{Parties}}?}
+      \field{title}{How {{Populist}} Are {{Parties}}? {{Measuring Degrees}} of {{Populism}} in {{Party Manifestos Using Supervised Machine Learning}}}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{30}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{311\bibrangedash 327}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1017/pan.2021.29
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/5BLRIDVS/Cocco y Monechi - 2022 - How Populist are Parties Measuring Degrees of Pop.pdf
+      \endverb
+      \keyw{computational politics,political parties,populism,text-as-data,textual analysis}
+    \endentry
+    \entry{daiMeasuringPopulismContext}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=189935fab4fd53a60b4708fd4d4219f3}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Yaoyao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{189935fab4fd53a60b4708fd4d4219f3}
+      \strng{fullhash}{189935fab4fd53a60b4708fd4d4219f3}
+      \strng{bibnamehash}{189935fab4fd53a60b4708fd4d4219f3}
+      \strng{authorbibnamehash}{189935fab4fd53a60b4708fd4d4219f3}
+      \strng{authornamehash}{189935fab4fd53a60b4708fd4d4219f3}
+      \strng{authorfullhash}{189935fab4fd53a60b4708fd4d4219f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Populism is a worldwide phenomenon. However, much of the academic literature has focused on just a few regions, notably Western Europe and Latin America. One obstacle to the study of populism from a global perspective is coming up with a measure of populism that is comparable across both space and time. In this paper, I clarify the theoretical concept of populism and introduce a novel computer-assisted supervised method combined with word embedding models for identifying populism in political texts. My method is highly generalizable and is not constrained by language. I demonstrate the usefulness of my method by measuring the degree of populism in English-language party manifestos and Chinese news articles. My method is able to identify populist texts with a high degree of accuracy in out-of-sample predictions, and therefore opens up new research opportunities to examine populism from a truly comparative perspective.}
+      \field{journaltitle}{University of North Carolina at Charlotte}
+      \field{langid}{english}
+      \field{title}{Measuring {{Populism}} in {{Context}}: {{A Supervised Approach}} with {{Word Embedding Models}}}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/GB7KJYF6/Dai - Measuring Populism in Context.pdf
+      \endverb
+    \endentry
+    \entry{daublerNaturalSentencesValid2012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a47083dabb322a61bb3f1682a916912b}{%
+           family={Däubler},
+           familyi={D\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c1ca3e512356959e202dae95044d122}{%
+           family={Benoit},
+           familyi={B\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d33462482fcd3f6d5f0127fc47015b9a}{%
+           family={Mikhaylov},
+           familyi={M\bibinitperiod},
+           given={Slava},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33dc8938fb77f6866c7a6ebb9669695b}{%
+           family={Laver},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{0f4524848bac20a5de2acf6f8d7ff9d5}
+      \strng{fullhash}{377bf29e9e1a8c9734d1e0ce1cdba9bb}
+      \strng{bibnamehash}{377bf29e9e1a8c9734d1e0ce1cdba9bb}
+      \strng{authorbibnamehash}{377bf29e9e1a8c9734d1e0ce1cdba9bb}
+      \strng{authornamehash}{0f4524848bac20a5de2acf6f8d7ff9d5}
+      \strng{authorfullhash}{377bf29e9e1a8c9734d1e0ce1cdba9bb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{0007-1234}
+      \field{journaltitle}{British Journal of Political Science}
+      \field{number}{4}
+      \field{title}{Natural {{Sentences}} as {{Valid Units}} for {{Coded Political Texts}}}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{42}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{937\bibrangedash 951}
+      \range{pages}{15}
+      \verb{eprint}
+      \verb 23274173
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/TV594IF5/Däubler et al. - 2012 - Natural Sentences as Valid Units for Coded Politic.pdf
+      \endverb
+    \endentry
+    \entry{devreesePopulismExpressionPolitical2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6cefa0994d5c8cf3456fa68be7fa5c7e}{%
+           family={{de Vreese}},
+           familyi={d\bibinitperiod},
+           given={Claes},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=049c0528065fce3f737eda3718c1abe8}{%
+           family={Esser},
+           familyi={E\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4654913a5e8f77e0ffd4799fcf7b0cc1}{%
+           family={Aalberg},
+           familyi={A\bibinitperiod},
+           given={Toril},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d29ce3f901c9e649ff18daf62f5463a6}{%
+           family={Reinemann},
+           familyi={R\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=559b97c4504ee10a9ba993bb9b2ee1e5}{%
+           family={Stanyer},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62323862d81d2766a4f4f24204edefec}
+      \strng{fullhash}{7eb71180a23e790aca49b9c47db0e076}
+      \strng{bibnamehash}{7eb71180a23e790aca49b9c47db0e076}
+      \strng{authorbibnamehash}{7eb71180a23e790aca49b9c47db0e076}
+      \strng{authornamehash}{62323862d81d2766a4f4f24204edefec}
+      \strng{authorfullhash}{7eb71180a23e790aca49b9c47db0e076}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this article, the introduction to a special International Journal of Press/Politics (IJPP) issue on populism, we articulate and define populism as a communication phenomenon. We provide an overview of populist political communication research and its current foci. We offer a framework for ongoing research and set the boundary conditions for a new generation of research on populist political communication, with an aim to push the research agendas and design toward a more interactive, systematic, and in particular, comparative approach to the study of populist political communication.}
+      \field{journaltitle}{The International Journal of Press/Politics}
+      \field{month}{8}
+      \field{shorttitle}{Populism as an {{Expression}} of {{Political Communication Content}} and {{Style}}}
+      \field{title}{Populism as an {{Expression}} of {{Political Communication Content}} and {{Style}}: {{A New Perspective}}}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{pages}{194016121879003}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/1940161218790035
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/VZKCZF94/de Vreese et al. - 2018 - Populism as an Expression of Political Communicati.pdf
+      \endverb
+    \endentry
+    \entry{decadriPopulismPartyMembership2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d2a478571073e3ce852d261efe74a74}{%
+           family={Decadri},
+           familyi={D\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=386f7b1ddf3cf60c6fdf3edfb027c5c9}{%
+           family={Boussalis},
+           familyi={B\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{e7a013e925d92bbcac211ee0dbb94420}
+      \strng{fullhash}{e7a013e925d92bbcac211ee0dbb94420}
+      \strng{bibnamehash}{e7a013e925d92bbcac211ee0dbb94420}
+      \strng{authorbibnamehash}{e7a013e925d92bbcac211ee0dbb94420}
+      \strng{authornamehash}{e7a013e925d92bbcac211ee0dbb94420}
+      \strng{authorfullhash}{e7a013e925d92bbcac211ee0dbb94420}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Common wisdom suggests that populist politicians use a simple language. While scholars have provided vast anecdotal evidence of populists' plain speech style, the empirical literature on populist communication offers very few and mixed comprehensive evaluations of the complexity of elected officials' language. This paper relies on a novel populist dictionary and 78,855 utterances from the 17th Italian parliament -- March 2013--July 2016 -- to comprehensively study the link between populism and speech complexity. We argue that ideological and electoral considerations lead populist parties and politicians to employ a straightforward language. Moreover, we claim that party membership shapes the rhetoric of elected officials, leading members of populist parties to use a simpler language. Using computer-assisted text analytic techniques to inspect parliamentary speeches given by the members of nine Italian parties, we perform a difference-in-differences analysis of the influence of party switching on legislators' behaviour. Our results suggest that populist ideology, electoral strategy, and party membership influence legislators' language complexity. Our overarching conclusion is that language simplicity might be thought of as a feature of populist communication. This arguably has implications for the ability of populist actors to use a simple communication style to outperform their mainstream counterparts when competing for voters' support.}
+      \field{issn}{1745-7289}
+      \field{journaltitle}{Journal of Elections, Public Opinion and Parties}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Populism, Party Membership, and Language Complexity in the {{Italian}} Chamber of Deputies}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{30}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{484\bibrangedash 503}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/17457289.2019.1593182
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/55ZAEVUU/Decadri y Boussalis - 2020 - Populism, party membership, and language complexit.pdf
+      \endverb
+    \endentry
+    \entry{grimmerTextDataPromise2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=81e3df64dcc8ffabf2106dfc23b934e0}{%
+           family={Grimmer},
+           familyi={G\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1370510cfe223ff4c2c652b160014ba}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{895d7d1b8a904299fc84a28a6b5f7c65}
+      \strng{fullhash}{895d7d1b8a904299fc84a28a6b5f7c65}
+      \strng{bibnamehash}{895d7d1b8a904299fc84a28a6b5f7c65}
+      \strng{authorbibnamehash}{895d7d1b8a904299fc84a28a6b5f7c65}
+      \strng{authornamehash}{895d7d1b8a904299fc84a28a6b5f7c65}
+      \strng{authorfullhash}{895d7d1b8a904299fc84a28a6b5f7c65}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Politics and political conflict often occur in the written and spoken word. Scholars have long recognized this, but the massive costs of analyzing even moderately sized collections of texts have hindered their use in political science research. Here lies the promise of automated text analysis: it substantially reduces the costs of analyzing large collections of text. We provide a guide to this exciting new area of research and show how, in many instances, the methods have already obtained part of their promise. But there are pitfalls to using automated methods---they are no substitute for careful thought and close reading and require extensive and problem-specific validation. We survey a wide range of new methods, provide guidance on how to validate the output of the models, and clarify misconceptions and errors in the literature. To conclude, we argue that for automated text methods to become a standard tool for political scientists, methodologists must contribute new methods and new methods of validation.}
+      \field{issn}{1047-1987, 1476-4989}
+      \field{journaltitle}{Political Analysis}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{Text as {{Data}}}
+      \field{title}{Text as {{Data}}: {{The Promise}} and {{Pitfalls}} of {{Automatic Content Analysis Methods}} for {{Political Texts}}}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{21}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{267\bibrangedash 297}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1093/pan/mps028
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/GWUAW6NW/Grimmer y Stewart - 2013 - Text as Data The Promise and Pitfalls of Automati.pdf
+      \endverb
+    \endentry
+    \entry{gurievPoliticalEconomyPopulism2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3f796052c281e36223324accf0567e60}{%
+           family={Guriev},
+           familyi={G\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ab76ca03f3d91f0157de10a34760ab0}{%
+           family={Papaioannou},
+           familyi={P\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5fd1172ce52f7a9ba2e2d85a6a847c9c}
+      \strng{fullhash}{5fd1172ce52f7a9ba2e2d85a6a847c9c}
+      \strng{bibnamehash}{5fd1172ce52f7a9ba2e2d85a6a847c9c}
+      \strng{authorbibnamehash}{5fd1172ce52f7a9ba2e2d85a6a847c9c}
+      \strng{authornamehash}{5fd1172ce52f7a9ba2e2d85a6a847c9c}
+      \strng{authorfullhash}{5fd1172ce52f7a9ba2e2d85a6a847c9c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We synthesize the literature on the recent rise of populism. First, we discuss definitions and present descriptive evidence on the recent increase in support for populists. Second, we cover the historical evolution of populist regimes since the late nineteenth century. Third, we discuss the role of secular economic factors related to cross-border trade and automation. Fourth, we review studies on the role of the 2008--09 global financial crisis and subsequent austerity, connect them to historical work covering the Great Depression, and discuss likely mechanisms. Fifth, we discuss studies on identity politics, trust, and cultural backlash. Sixth, we discuss economic and cultural consequences of growth in immigration and the recent refugee crisis. We also discuss the gap between perceptions and reality regarding immigration. Seventh, we review studies on the impact of the internet and social media. Eighth, we discuss the literature on the implications of populism's recent rise. We conclude outlining avenues for further research.}
+      \field{issn}{0022-0515}
+      \field{journaltitle}{Journal of Economic Literature}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{The {{Political Economy}} of {{Populism}}}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{60}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{753\bibrangedash 832}
+      \range{pages}{80}
+      \verb{doi}
+      \verb 10.1257/jel.20201595
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/ZMEF9UUT/Guriev y Papaioannou - 2022 - The Political Economy of Populism.pdf
+      \endverb
+      \keyw{Cycles Financial Crises Economics of Minorities Races Indigenous Peoples and Immigrants,Economic Anthropology,Language,Political Processes: Rent-seeking Lobbying Elections Legislatures and Voting Behavior Business Fluctuations,Social and Economic Stratification}
+    \endentry
+    \entry{hawkinsChavezPopulistMeasuring2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb6194e6ad725577dbbb991d18cfd97a}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Kirk\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{bb6194e6ad725577dbbb991d18cfd97a}
+      \strng{fullhash}{bb6194e6ad725577dbbb991d18cfd97a}
+      \strng{bibnamehash}{bb6194e6ad725577dbbb991d18cfd97a}
+      \strng{authorbibnamehash}{bb6194e6ad725577dbbb991d18cfd97a}
+      \strng{authornamehash}{bb6194e6ad725577dbbb991d18cfd97a}
+      \strng{authorfullhash}{bb6194e6ad725577dbbb991d18cfd97a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article pushes forward our understanding of populism by developing one of the more underappreciated definitions of populism, populism as discourse. It does so by creating a quantitative measure of populist discourse suitable for cross-country and historical analysis. The article starts by laying out the discursive definition of populism in the context of existing definitions. It then operationalizes this definition through a holistic grading of speeches by current chief executives and a few historical figures. The result is a data set of elite-level populist discourse in more than 40 current and past governments from a variety of countries across the world, with special focus on Latin America. This measurement has high reliability comparable to standard human-coded content analysis, compares well to common understandings of actual cases of populism, and is a reasonably efficient technique even in small samples.}
+      \field{issn}{0010-4140}
+      \field{journaltitle}{Comparative Political Studies}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{shorttitle}{Is {{Chávez Populist}}?}
+      \field{title}{Is {{Chávez Populist}}?: {{Measuring Populist Discourse}} in {{Comparative Perspective}}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{42}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{1040\bibrangedash 1067}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1177/0010414009331721
+      \endverb
+    \endentry
+    \entry{hawkinsIdeationalApproachPopulism2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bb6194e6ad725577dbbb991d18cfd97a}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Kirk\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=602f72a7dbd1a28761606a31d5326fa3}{%
+           family={Kaltwasser},
+           familyi={K\bibinitperiod},
+           given={Cristóbal\bibnamedelima Rovira},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Latin American Studies Association}%
+      }
+      \strng{namehash}{8c9ceeff325aa829160e836d23d03e4c}
+      \strng{fullhash}{8c9ceeff325aa829160e836d23d03e4c}
+      \strng{bibnamehash}{8c9ceeff325aa829160e836d23d03e4c}
+      \strng{authorbibnamehash}{8c9ceeff325aa829160e836d23d03e4c}
+      \strng{authornamehash}{8c9ceeff325aa829160e836d23d03e4c}
+      \strng{authorfullhash}{8c9ceeff325aa829160e836d23d03e4c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the study of populism has traditionally been the domain of Latin Americanists, research here has become increasingly comparative. One of the most important payoffs of this comparative work is conceptual. Rather than defining populism in structuralist, economic, or political-strategic terms, a growing number of scholars around the world are using an ideational conceptualization that draws heavily from earlier discursive theories. By employing the ideational approach, scholars have been able to provide empirical measures of populist discourse. In this article we explain and show the advantages of this ideational approach to a Latin American audience by presenting a new historical dataset measuring the discourse of Argentine, Chilean, and Peruvian presidents across the twentieth century. Our main intent is to clarify the ideational approach as well as to enliven the conceptual debate. While we are critical of alternative definitions, we acknowledge and reassess their theoretical insights. Aun cuando el estudio del populismo ha sido tradicionalmente un campo de los latinoamericanistas, la investigación al respecto se ha vuelto cada vez más comparativa. Uno de los beneficios más importantes de los trabajos comparados es conceptual. En vez de definir al populismo en términos estructurales, económicos o político-estratégicos, un creciente número de académicos alrededor del mundo utilizan una conceptualización ideacional vinculada con previas teorías discursivas. Mediante el uso del enfoque ideacional académicos han sido capaces de proveer mediciones empíricas de discurso populista. En este artículo explicamos y mostramos las ventajas del enfoque ideacional mediante la discusión de una nueva base de datos que mide el discurso de los presidentes de Argentina, Chile y Perú durante el siglo veinte. Nuestra principal intensión es clarificar el enfoque ideacional y a su vez avivar el debate conceptual. Si bien es cierto que somos críticos de definiciones alternativas, reconocemos y reconsideramos sus aportes teóricos.}
+      \field{eprinttype}{jstor}
+      \field{issn}{0023-8791}
+      \field{journaltitle}{Latin American Research Review}
+      \field{number}{4}
+      \field{title}{The {{Ideational Approach}} to {{Populism}}}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{52}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{513\bibrangedash 528}
+      \range{pages}{16}
+      \verb{eprint}
+      \verb 26743761
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/DP6KDILQ/Hawkins y Kaltwasser - 2017 - The Ideational Approach to Populism.pdf
+      \endverb
+    \endentry
+    \entry{lopezStatesElitesInequality2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3d532384916c4cd3f57c2c93ac9c9063}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Matias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d532384916c4cd3f57c2c93ac9c9063}
+      \strng{fullhash}{3d532384916c4cd3f57c2c93ac9c9063}
+      \strng{bibnamehash}{3d532384916c4cd3f57c2c93ac9c9063}
+      \strng{authorbibnamehash}{3d532384916c4cd3f57c2c93ac9c9063}
+      \strng{authornamehash}{3d532384916c4cd3f57c2c93ac9c9063}
+      \strng{authorfullhash}{3d532384916c4cd3f57c2c93ac9c9063}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this article I review the literature on elites and inequality in Latin America with a focus on the emergence of uneven state structures and how they came to foster the needs of elites for protection. States in Latin America are traditionally thought of as facilitating processes of top-down modernization that transformed traditional agrarian economies into complex urban polities, while maintaining extreme inequality. The state is thus central in the genealogy of inequality and elite privilege in Latin America. The synergy between states and elites continues to mark Latin American societies, and it helps us to understand how major economic and political changes occur without significant changes in inequality. For the most part, Latin America's current uneven states emerged as the result of exclusionary projects of citizenship during the first half of the 20th century and were advanced by the advent of repressive regimes during the 1960s and 1970s. After democratic transitions during the 1980s and 1990s, Latin American states came to be characterized, on the one hand, by procedural democratic institutions, and on the other by high levels of state violence, exclusion, and segmented citizenship. The present situation is one of a problematic equilibrium between states, elites, and inequality.}
+      \field{issn}{1751-9020, 1751-9020}
+      \field{journaltitle}{Sociology Compass}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{States, Elites, and Inequality in {{Latin America}}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{e12598}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1111/soc4.12598
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/W8T5MUE8/López - 2018 - States, elites, and inequality in Latin America.pdf
+      \endverb
+    \endentry
+    \entry{moffittGlobalRisePopulism2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9674f9deceeccc460013b98cbd0209e}{%
+           family={Moffitt},
+           familyi={M\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{e9674f9deceeccc460013b98cbd0209e}
+      \strng{fullhash}{e9674f9deceeccc460013b98cbd0209e}
+      \strng{bibnamehash}{e9674f9deceeccc460013b98cbd0209e}
+      \strng{authorbibnamehash}{e9674f9deceeccc460013b98cbd0209e}
+      \strng{authornamehash}{e9674f9deceeccc460013b98cbd0209e}
+      \strng{authorfullhash}{e9674f9deceeccc460013b98cbd0209e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Once seen as a fringe phenomenon, populism is back. While some politicians and media outlets present it as dangerous to the U.S., Europe, and Latin America, others hail it as the fix for broken democracies. Not surprisingly, questions about populism abound. Does it really threaten democracy? Why the sudden rise in populism? And what are we talking about when we talk about "populism"? \emph{The Global Rise of Populism} argues for the need to rethink this concept. While still based on the classic divide between "the people" and "the elite," populism's reliance on new media technologies, its shifting relationship to political representation, and its increasing ubiquity have seen it transform in nuanced ways that demand explaining. Benjamin Moffitt contends that populism is not one entity, but a political style that is performed, embodied, and enacted across different political and cultural contexts. This new understanding makes sense of populism in a time when media pervades political life, a sense of crisis prevails, and populism has gone truly global.}
+      \field{edition}{1}
+      \field{eprinttype}{jstor}
+      \field{isbn}{978-0-8047-9613-2}
+      \field{shorttitle}{The {{Global Rise}} of {{Populism}}}
+      \field{title}{The {{Global Rise}} of {{Populism}}: {{Performance}}, {{Political Style}}, and {{Representation}}}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2307/j.ctvqsdsd8
+      \endverb
+      \verb{eprint}
+      \verb j.ctvqsdsd8
+      \endverb
+    \endentry
+    \entry{morenoVirajeElectoralOpinion}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e6f9cf9f0d250d3ac328e09060465165}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a43d56f7432cceeafcf2473a6dc2fbc0}{%
+           family={Uribe},
+           familyi={U\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{300bf6e7a2977bdfe2233961db435e27}
+      \strng{fullhash}{300bf6e7a2977bdfe2233961db435e27}
+      \strng{bibnamehash}{300bf6e7a2977bdfe2233961db435e27}
+      \strng{authorbibnamehash}{300bf6e7a2977bdfe2233961db435e27}
+      \strng{authornamehash}{300bf6e7a2977bdfe2233961db435e27}
+      \strng{authorfullhash}{300bf6e7a2977bdfe2233961db435e27}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://www5.diputados.gob.mx/index.php/camara/Centros-de-Estudio/CESOP/Estudios-e-Investigaciones/Libros/El-viraje-electoral-opinion-publica-y-voto-en-las-elecciones-de-2018}
+      \field{journaltitle}{Cámara de Diputados}
+      \field{title}{El Viraje Electoral: Opinión Pública y Voto En Las Elecciones de 2018}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/VNZB4YCV/El-viraje-electoral-opinion-publica-y-voto-en-las-elecciones-de-2018.html
+      \endverb
+    \endentry
+    \entry{muddePopulistZeitgeist2004}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84d395c33672f5bfb8ecdc038c3ade17}{%
+           family={Mudde},
+           familyi={M\bibinitperiod},
+           given={Cas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{84d395c33672f5bfb8ecdc038c3ade17}
+      \strng{fullhash}{84d395c33672f5bfb8ecdc038c3ade17}
+      \strng{bibnamehash}{84d395c33672f5bfb8ecdc038c3ade17}
+      \strng{authorbibnamehash}{84d395c33672f5bfb8ecdc038c3ade17}
+      \strng{authornamehash}{84d395c33672f5bfb8ecdc038c3ade17}
+      \strng{authorfullhash}{84d395c33672f5bfb8ecdc038c3ade17}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{0017-257X}
+      \field{journaltitle}{Government and Opposition}
+      \field{number}{4}
+      \field{title}{The {{Populist Zeitgeist}}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{39}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{541\bibrangedash 563}
+      \range{pages}{23}
+      \verb{eprint}
+      \verb 44483088
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/YDPBLNHA/Mudde - 2004 - The Populist Zeitgeist.pdf
+      \endverb
+    \endentry
+    \entry{muddePopulismVeryShort2017}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=84d395c33672f5bfb8ecdc038c3ade17}{%
+           family={Mudde},
+           familyi={M\bibinitperiod},
+           given={Cas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e857bddf50a2f7e6130507ca28682e2e}{%
+           family={Rovira\bibnamedelima Kaltwasser},
+           familyi={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Cristóbal},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5c483f148c77dd798de9ee6b610ba9dd}
+      \strng{fullhash}{5c483f148c77dd798de9ee6b610ba9dd}
+      \strng{bibnamehash}{5c483f148c77dd798de9ee6b610ba9dd}
+      \strng{authorbibnamehash}{5c483f148c77dd798de9ee6b610ba9dd}
+      \strng{authornamehash}{5c483f148c77dd798de9ee6b610ba9dd}
+      \strng{authorfullhash}{5c483f148c77dd798de9ee6b610ba9dd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract. What is populism? What is the relationship between populism and democracy? Populism: A Very Short Introduction presents populism as an ideology t}
+      \field{isbn}{978-0-19-023490-4}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{shorttitle}{Populism}
+      \field{title}{Populism: {{A Very Short Introduction}}}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1093/actrade/9780190234874.001.0001
+      \endverb
+    \endentry
+    \entry{OpinionCanStop}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.washingtonpost.com/opinions/2021/05/18/bukele-el-salvador-biden-human-rights-watch-authoritarianism/}
+      \field{title}{Opinion {|} {{The U}}.{{S}}. Can Stop {{El Salvador}}'s Slide to Authoritarianism. {{Time}} to Act. - {{The Washington Post}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{PartyFactsDatabase}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://journals.sagepub.com/doi/10.1177/1354068818820671}
+      \field{title}{Party {{Facts}}: {{A}} Database of Political Parties Worldwide - {{Holger Döring}}, {{Sven Regel}}, 2019}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/N4F3GHZD/1354068818820671.html
+      \endverb
+    \endentry
+    \entry{pauwelsMeasuringPopulismQuantitative2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8dfdf7e402030840b246a882cb92c6cf}{%
+           family={Pauwels},
+           familyi={P\bibinitperiod},
+           given={Teun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{8dfdf7e402030840b246a882cb92c6cf}
+      \strng{fullhash}{8dfdf7e402030840b246a882cb92c6cf}
+      \strng{bibnamehash}{8dfdf7e402030840b246a882cb92c6cf}
+      \strng{authorbibnamehash}{8dfdf7e402030840b246a882cb92c6cf}
+      \strng{authornamehash}{8dfdf7e402030840b246a882cb92c6cf}
+      \strng{authorfullhash}{8dfdf7e402030840b246a882cb92c6cf}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Despite the increased use of the term populism in vernacular and scholarly language, the measurement of the concept has long been neglected. The label is often attached to a certain party without any justification. Minimal definitions are alternatives but lack rigor. Classical content analyses provide more systematic measurements of populism but are extremely resource hungry. This article proposes an alternative, quantitative text analysis to measure the degree of populism among Belgian parties, drawing on both internally and externally oriented party literature. The results confirm that usual suspects such as the Vlaams Belang or Lijst Dedecker are the most populist of all parties under study. Populism turns out not to be an ``either--or'' concept, however, since we also identify a moderately populist party. It is furthermore demonstrated how populism can be attached to other ideologies, such as the radical right and (neo)liberalism. A cross-validation of the proposed method with independent voter survey data confirms its validity. This article concludes that a quantitative text analysis might be a promising method to measure populism over time and space without the huge costs of hand coding.}
+      \field{issn}{1745-7289}
+      \field{journaltitle}{Journal of Elections, Public Opinion and Parties}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shorttitle}{Measuring {{Populism}}}
+      \field{title}{Measuring {{Populism}}: {{A Quantitative Text Analysis}} of {{Party Literature}} in {{Belgium}}}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{volume}{21}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{97\bibrangedash 119}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1080/17457289.2011.539483
+      \endverb
+    \endentry
+    \entry{QuantitativeAnalysisTextual}{misc}{}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, Stefan Müller, and Akitaka Matsuo. (2018) ``quanteda: An R package for the quantitative analysis of textual data''. Journal of Open Source Software 3(30), 774. https://doi.org/10.21105/joss.00774. For a BibTeX entry, use the output from citation(package = "quanteda").}
+      \field{howpublished}{http://quanteda.io/}
+      \field{title}{Quantitative {{Analysis}} of {{Textual Data}} - {{Quanteda}}}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/LQARHVCL/quanteda.io.html
+      \endverb
+    \endentry
+    \entry{rooduijnMeasuringPopulismComparing2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c246380fa4eab46dd083753be73ca77f}{%
+           family={Rooduijn},
+           familyi={R\bibinitperiod},
+           given={Matthijs},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dfdf7e402030840b246a882cb92c6cf}{%
+           family={Pauwels},
+           familyi={P\bibinitperiod},
+           given={Teun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{9774fe4af2adbe8adb27fc6b8df790b1}
+      \strng{fullhash}{9774fe4af2adbe8adb27fc6b8df790b1}
+      \strng{bibnamehash}{9774fe4af2adbe8adb27fc6b8df790b1}
+      \strng{authorbibnamehash}{9774fe4af2adbe8adb27fc6b8df790b1}
+      \strng{authornamehash}{9774fe4af2adbe8adb27fc6b8df790b1}
+      \strng{authorfullhash}{9774fe4af2adbe8adb27fc6b8df790b1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The measurement of populism~--~particularly over time and space~--~has received only scarce attention. In this research note two different ways to measure populism are compared: a classical content analysis and a computer-based content analysis. An analysis of political parties in the United Kingdom, the Netherlands, Germany and Italy demonstrates that both methods can be used to measure populism across countries and over time. Recommendations are presented on how to combine these methods in future comparative research on populism.}
+      \field{issn}{0140-2382}
+      \field{journaltitle}{West European Politics}
+      \field{month}{11}
+      \field{number}{6}
+      \field{shorttitle}{Measuring {{Populism}}}
+      \field{title}{Measuring {{Populism}}: {{Comparing Two Methods}} of {{Content Analysis}}}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{volume}{34}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{1272\bibrangedash 1283}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/01402382.2011.616665
+      \endverb
+    \endentry
+    \entry{sendraMileiPopulistPeople2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c800170ba6b18bb199231262436eb796}{%
+           family={Sendra},
+           familyi={S\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53c4c68cba081d146743a6a474d807ca}{%
+           family={{Marcos-Marne}},
+           familyi={M\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{854bb84f4b0a44779e0538dee95b574b}
+      \strng{fullhash}{854bb84f4b0a44779e0538dee95b574b}
+      \strng{bibnamehash}{854bb84f4b0a44779e0538dee95b574b}
+      \strng{authorbibnamehash}{854bb84f4b0a44779e0538dee95b574b}
+      \strng{authornamehash}{854bb84f4b0a44779e0538dee95b574b}
+      \strng{authorfullhash}{854bb84f4b0a44779e0538dee95b574b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The electoral rise of Milei, that brought him up to the presidency of Argentina in 2023, has run in parallel with discussions about his use of populist ideas. Overall, Milei is characterised by his emphasis on economic issues, with an extreme pro-market position based on the Austrian school, but he also stands out for a strong anti-establishment discourse. While observers may consider these appeals as populist, a categorisation based on just this feature could be premature given the multidimensional nature of populism. This article tests the importance of populism in the discourse of Milei displaying an empirical strategy based on the holistic grading of key political discourses. Main results indicate that Milei's discourse is partially populist because it lacks a people-centred vision, even one anchored in market rationality. We expect these results will facilitate comparisons of the Argentinian case with other Latin-American cases in which populism and neoliberalism seem to be mutually reinforcing.}
+      \field{issn}{1356-9775}
+      \field{journaltitle}{Contemporary Politics}
+      \field{number}{0}
+      \field{shorttitle}{Is {{Milei}} a Populist?}
+      \field{title}{Is {{Milei}} a Populist? {{People}} and Market in the New Radical Right in {{Argentina}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{0}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1080/13569775.2024.2311982
+      \endverb
+      \keyw{Argentina,market,Milei,people,Populism,radical right}
+    \endentry
+    \entry{smithELEVENYEARSPROCESS}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2bf20d73afcf0c03701453d661169723}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stansfield},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2bf20d73afcf0c03701453d661169723}
+      \strng{fullhash}{2bf20d73afcf0c03701453d661169723}
+      \strng{bibnamehash}{2bf20d73afcf0c03701453d661169723}
+      \strng{authorbibnamehash}{2bf20d73afcf0c03701453d661169723}
+      \strng{authornamehash}{2bf20d73afcf0c03701453d661169723}
+      \strng{authorfullhash}{2bf20d73afcf0c03701453d661169723}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{{ELEVEN YEARS OF THE}} ``{{PROCESS OF CHANGE}}'' {{IN EVO MORALES}}' {{BOLIVIA}}}
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/YJE32C7R/Smith - ELEVEN YEARS OF THE “PROCESS OF CHANGE” IN EVO MOR.pdf
+      \endverb
+    \endentry
+    \entry{torrePeopleDemocracyAuthoritarianism2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad89aee1af26ae6c2f3b226f81540944}{%
+           family={Torre},
+           familyi={T\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de\bibnamedelima la},
+           prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{ad89aee1af26ae6c2f3b226f81540944}
+      \strng{fullhash}{ad89aee1af26ae6c2f3b226f81540944}
+      \strng{bibnamehash}{ad89aee1af26ae6c2f3b226f81540944}
+      \strng{authorbibnamehash}{ad89aee1af26ae6c2f3b226f81540944}
+      \strng{authornamehash}{ad89aee1af26ae6c2f3b226f81540944}
+      \strng{authorfullhash}{ad89aee1af26ae6c2f3b226f81540944}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Constellations}
+      \field{number}{4}
+      \field{title}{The {{People}}, {{Democracy}}, and {{Authoritarianism}} in {{Rafael Correa}}'s {{Ecuador}}}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{pages}{457\bibrangedash 466}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/1467-8675.12117
+      \endverb
+      \verb{file}
+      \verb /Users/sarabcidf/Zotero/storage/GWDWEVDM/DELTPD-3.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

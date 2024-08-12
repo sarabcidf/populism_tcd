@@ -1,0 +1,189 @@
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage{graphicx}
+\usepackage{graphicx,textcomp}
+\usepackage{setspace}
+\usepackage{fullpage}
+\usepackage{color}
+\usepackage[reqno]{amsmath}
+\usepackage{amsthm}
+\usepackage{fancyvrb}
+\usepackage{amssymb,enumerate}
+\usepackage[all]{xy}
+\usepackage{endnotes}
+\usepackage{lscape}
+\newtheorem{com}{Comment}
+\usepackage{float}
+\newtheorem{lem} {Lemma}
+\newtheorem{prop}{Proposition}
+\newtheorem{thm}{Theorem}
+\newtheorem{defn}{Definition}
+\newtheorem{cor}{Corollary}
+\newtheorem{obs}{Observation}
+
+\usepackage[compact]{titlesec}
+\usepackage{dcolumn}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{multirow}
+\usepackage{xcolor}
+\newcolumntype{.}{D{.}{.}{-1}}
+\newcolumntype{d}[1]{D{.}{.}{#1}}
+\definecolor{light-gray}{gray}{0.65}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{adjustbox}
+\usepackage{caption}
+\captionsetup{justification=centering}
+
+\usepackage{hyperref}
+
+%%%% BIBLIOGRAPHY SETTINGS %%%%
+
+\usepackage[backend=biber, notes, isbn=false, doi=false, url=false]{biblatex-chicago}
+\addbibresource{/Users/sarabcidf/Desktop/ASDS/Dissertation/Latex/PopulismBiblio2.bib}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+% Tables %
+
+\usepackage{multirow}
+\usepackage{cellspace} % for cell margins
+\setlength\cellspacetoplimit{5pt} % Adjust the top margin
+\setlength\cellspacebottomlimit{5pt} % Adjust the bottom margin
+
+%%%% SECTIONS FORMATTING %%%%
+
+\titleformat{\section}[hang]
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}
+{0pt}{0pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\newcommand{\sectionbreak}{\clearpage}
+
+\lstset{style=mystyle}
+\newcommand{\Sref}[1]{Section~\ref{#1}}
+\newtheorem{hyp}{Hypothesis}
+
+%%%% DOCUMENT %%%%
+
+\begin{document}
+	
+	% Cover page
+	
+	\begin{titlepage}
+		\centering
+		\vspace*{1cm} % Add vertical space at the top of the page
+		
+		% Include the logo
+		\includegraphics[width=\textwidth]{Trinity_RGB_transparent_main.png}\\[1cm]
+		
+		% Thesis title
+		{\LARGE Populism Beyond the West: A Computational Approach to Measuring Populism and an Analysis of its Dimensions in Latin America}\\[1cm]
+		{\Large Online Appendix 1: Summary Statistics}\\[0.3cm]
+		
+		% Supervisor
+		\Large Sara Belén Cid Ferro \\[1cm]
+		
+		% Date
+		{\large \today}
+	\end{titlepage}
+	
+	% Contents
+	
+	\tableofcontents
+	\listoffigures
+	
+	\section{Statistics by Country}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of sentences by country}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/sent_by_country.png} 
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of manifestos by country}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/manif_by_country.png} 
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of parties by country}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/parties_by_country.png} 
+	\end{figure}
+	
+	\section{Statistics by Ideology}
+	
+		\begin{figure}[H]
+		\centering
+		\caption{Number of sentences by ideology}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/sent_by_ideology.png} 
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of manifestos by ideology}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/manif_by_ideology.png} 
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of parties by ideology}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/parties_by_ideology.png} 
+	\end{figure}
+	
+	\section{Statistics by Populism Score}
+	
+			\begin{figure}[H]
+		\centering
+		\caption{Number of sentences by populism score}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/sent_by_pop_score.png} 
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of manifestos by populism score}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/manif_by_pop_score.png} 
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\caption{Number of parties by populism score}
+		\label{fig:yourfigure}
+		\includegraphics[width=0.8\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/FinalScripts/SummaryStats/parties_by_pop_score.png} 
+	\end{figure}
+	
+\end{document}
+
